@@ -1,6 +1,5 @@
 import "./App.css";
 import React from "react";
-import { ReactDOM } from "react";
 import Home from "./routes/Home";
 import About from "./routes/About";
 import Project from "./routes/Project";

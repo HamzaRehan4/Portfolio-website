@@ -7,7 +7,7 @@ const Infopage = () => {
   return (
     <div className="info">
       <div className="mask">
-        <img className="into-img" src={pic4} alt="home-page-image"></img>
+        <img className="into-img" src={pic4} alt="hello"></img>
       </div>
       <div className="content">
         <p>Hi, I'M A FRONT END DEVELOPER.</p>
